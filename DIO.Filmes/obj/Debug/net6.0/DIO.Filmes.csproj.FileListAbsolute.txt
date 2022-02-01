@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.exe
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.deps.json
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.runtimeconfig.json
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.dll
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\ref\DIO.Filmes.dll
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\bin\Debug\net6.0\DIO.Filmes.pdb
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.dll
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\ref\DIO.Filmes.dll
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.pdb
+C:\Users\carlo\Desktop\Decola Tech bootcamp\15 - Criando um App simples\DesafioDio-CadastroFilmes\DIO.Filmes\obj\Debug\net6.0\DIO.Filmes.genruntimeconfig.cache
